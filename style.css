@@ -1,0 +1,32 @@
+body
+{
+    background-color: rgb(12, 5, 12);
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.center
+{
+    text-align: center;
+}
+
+button
+{
+    background-color: rgb(245, 152, 244);
+    border-color: rgb(85, 7, 60);
+    border-radius: 25px;
+    box-shadow: 7px 7px 7px rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    height: 4em;
+    width: 20em;
+}
+
+button:hover
+{
+
+    background-color: rgb(248, 107, 234);
+    border-color: rgb(247, 208, 240);
+    color: rgb(81, 4, 62);
+}
